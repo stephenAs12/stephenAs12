@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Estifanos Aschale
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning languages related to js
+- 🌱 I’m currently working and learning languages related to object oriented
 - 💞️ I’m looking to collaborate on new tech
 - 📫 How to reach me use +251918819955 or estifanosaschale12@gmail.com
 
